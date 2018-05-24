@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureResourceGroup1", "AzureResourceGroup1\AzureResourceGroup1.deployproj", "{E8CC83B5-8A1F-41FC-BA9E-037CACFADCFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8CC83B5-8A1F-41FC-BA9E-037CACFADCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CC83B5-8A1F-41FC-BA9E-037CACFADCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CC83B5-8A1F-41FC-BA9E-037CACFADCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CC83B5-8A1F-41FC-BA9E-037CACFADCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D811D968-0D94-404A-AD81-191D76C128B2}
+	EndGlobalSection
+EndGlobal
